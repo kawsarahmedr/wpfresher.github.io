@@ -2,6 +2,15 @@
   margin:0px;
   padding:0px;
 }
+html{
+	font-family: Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono", monospace;
+}
+body{
+	/*no needed yet*/
+}
+h1{
+	/*no needed yet*/
+}
 
 #octocat {
   display: block;
@@ -10,8 +19,87 @@
 }
 
 p {
-  display: block;
-  width: 400px;
-  margin: 50px auto;
-  font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+  	/*no needed yet*/
+}
+
+
+
+
+
+/*wpfairs-subscribtion-form*/
+
+.wpfairs-footer-subscribtion{
+	padding: 25px 0;
+	border-top: 1px solid rgba(0, 0, 0, 0.1);
+	border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.wpfairs-footer-signup-des p{
+	padding: 5px 0px;
+}
+.wpfairs-footer-signup-form{
+	padding: 10px;
+}
+.wpfairs-footer-signup-form form{
+	float: right;
+}
+.wpfairs-footer-signup-form input{
+	padding: 6px 15px;
+	border: 1px solid #ccc;
+	margin-right: -4px;
+	width: 280px;
+	max-width: 100%;
+	border-right: none;
+	height: 40px;
+}
+.wpfairs-footer-signup-form .btn{
+	margin-top: -7px;
+	height: 40px;
+}
+
+
+/*wpfairs-footer*/
+
+.wpfairs-footer{
+	background-color: #f9f9f9;
+	padding: 50px 0;
+}
+.wpfairs-footer ul li{
+	list-style: none;
+}
+.wpfairs-footer-left img{
+	margin-bottom: 25px;
+}
+.wpfairs-footer-left .wpfairs-mail{
+	font-size: 14px;
+}
+.wpfairs-footer-social-icon{
+	margin-top: 25px;
+}
+.wpfairs-footer-left ul li{
+	display: inline-block;
+}
+.wpfairs-footer-left i{
+	padding: 10px;
+	border: 1px solid #ccc;
+	border-radius: 100%;
+}
+.wpfairs-footer-title{
+	color:#999;
+}
+.wpfairs-footer-right a{
+	color:#000;
+	font-size: 12px;
+}
+.wpfairs-footer-bottom{
+	font-size: 12px;
+	font-weight: bold;
+}
+.wpfairs-footer-bottom .nav{
+	float: right;
+}
+.wpfairs-footer-bottom .nav a{
+	color:#000;
+	padding-top: 0;
+    padding-bottom: 0;
 }

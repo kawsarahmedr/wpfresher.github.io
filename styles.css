@@ -21,10 +21,32 @@ h1{
 p {
   	/*no needed yet*/
 }
+.wpfairs-btn {
+	background-color: #0073AA;
+	color:#fff;
+}
+.wpfairs-btn:hover{
+	color:#0063AA;
+}
+.wpfairs-section{
+	padding: 100px 0px;
+}
 
-
-
-
+/*wpfairs-header*/
+.wpfairs-header{
+	background-color: #0073AA;
+	padding: 5px;
+}
+.wpfairs-logo img{
+	width: 100%;
+	height: 50px;
+}
+.wpfairs-nav a{
+	color: #ffffff;
+}
+.wpfairs-nav a:hover{
+	color: #f9f9f9;
+}
 
 /*wpfairs-subscribtion-form*/
 

@@ -14,59 +14,59 @@ h1{
 p {
   	/*no needed yet*/
 }
-.wpfairs-btn {
+.wpfresher-btn {
 	background-color: #0073AA;
 	color:#fff;
 }
-.wpfairs-btn:hover{
+.wpfresher-btn:hover{
 	color:#0063AA;
 }
-.wpfairs-section{
+.wpfresher-section{
 	padding: 100px 0px;
 }
 
-/*wpfairs-header*/
-.wpfairs-header{
+/*wpfresher-header*/
+.wpfresher-header{
 	background-color: #0073AA;
 	padding: 5px;
 }
-.wpfairs-logo h1{
+.wpfresher-logo h1{
 	color: #ffffff;
     font-weight: 600;
     font-size: 27px;
 }
-.wpfairs-logo img{
+.wpfresher-logo img{
 	width: 100%;
 	height: 50px;
 }
-.wpfairs-nav .nav{
+.wpfresher-nav .nav{
 	float: right;
 }
-.wpfairs-nav a{
+.wpfresher-nav a{
 	color: #ffffff;
 }
-.wpfairs-nav a:hover{
+.wpfresher-nav a:hover{
 	color: #f9f9f9;
 }
 
-/*wpfairs-subscription-form*/
+/*wpfresher-subscription-form*/
 
-.wpfairs-footer-subscription{
+.wpfresher-footer-subscription{
 	padding: 25px 0;
 	border-top: 1px solid rgba(0, 0, 0, 0.1);
 	border-bottom: 1px solid rgba(0, 0, 0, 0.1);
 }
 
-.wpfairs-footer-signup-des p{
+.wpfresher-footer-signup-des p{
 	padding: 5px 0px;
 }
-.wpfairs-footer-signup-form{
+.wpfresher-footer-signup-form{
 	padding: 10px;
 }
-.wpfairs-footer-signup-form form{
+.wpfresher-footer-signup-form form{
 	float: right;
 }
-.wpfairs-footer-signup-form input{
+.wpfresher-footer-signup-form input{
 	padding: 6px 15px;
 	border: 1px solid #ccc;
 	margin-right: -4px;
@@ -75,53 +75,53 @@ p {
 	border-right: none;
 	height: 40px;
 }
-.wpfairs-footer-signup-form .btn{
+.wpfresher-footer-signup-form .btn{
 	margin-top: -7px;
 	height: 40px;
 }
 
 
-/*wpfairs-footer*/
+/*wpfresher-footer*/
 
-.wpfairs-footer{
+.wpfresher-footer{
 	background-color: #f9f9f9;
 	padding: 50px 0;
 }
-.wpfairs-footer ul li{
+.wpfresher-footer ul li{
 	list-style: none;
 }
-.wpfairs-footer-left img{
+.wpfresher-footer-left img{
 	margin-bottom: 25px;
 }
-.wpfairs-footer-left .wpfairs-mail{
+.wpfresher-footer-left .wpfresher-mail{
 	font-size: 14px;
 }
-.wpfairs-footer-social-icon{
+.wpfresher-footer-social-icon{
 	margin-top: 25px;
 }
-.wpfairs-footer-left ul li{
+.wpfresher-footer-left ul li{
 	display: inline-block;
 }
-.wpfairs-footer-left i{
+.wpfresher-footer-left i{
 	padding: 10px;
 	border: 1px solid #ccc;
 	border-radius: 100%;
 }
-.wpfairs-footer-title{
+.wpfresher-footer-title{
 	color:#999;
 }
-.wpfairs-footer-right a{
+.wpfresher-footer-right a{
 	color:#000;
 	font-size: 12px;
 }
-.wpfairs-footer-bottom{
+.wpfresher-footer-bottom{
 	font-size: 12px;
 	font-weight: bold;
 }
-.wpfairs-footer-bottom .nav{
+.wpfresher-footer-bottom .nav{
 	float: right;
 }
-.wpfairs-footer-bottom .nav a{
+.wpfresher-footer-bottom .nav a{
 	color:#000;
 	padding-top: 0;
     padding-bottom: 0;
